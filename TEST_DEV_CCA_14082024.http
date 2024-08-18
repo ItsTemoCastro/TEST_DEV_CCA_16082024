@@ -1,0 +1,6 @@
+@TEST_DEV_CCA_14082024_HostAddress = http://localhost:5104
+
+GET {{TEST_DEV_CCA_14082024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
